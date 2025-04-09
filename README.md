@@ -89,13 +89,7 @@ Each section then:
 
 ---
 
-## 📦 Author
-
-Script created for analyzing NGINX access logs efficiently using simple Bash and `awk` magic.
-
----
-
 ## 🔐 License
 
 Feel free to modify and use it for personal or educational purposes.
-```
+
